@@ -30,7 +30,7 @@ An intelligent AI-powered chatbot that provides accurate pregnancy-related infor
 The chatbot will process the pregnancy-related PDF and create a knowledge base. Users can then ask questions about pregnancy, and the bot will provide context-aware responses.
 
 ## Created by
-[Your Name](your-linkedin-url)
+[Nishu Pandey](https://www.linkedin.com/in/nishupandey085/)
 ```
 
 ```text requirements.txt
